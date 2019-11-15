@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d3fdf45f-293c-441d-b70f-301a48cfcef3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Contentful.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/RoomsFilter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RoomsFilter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/context.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/context.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -94,7 +97,7 @@
       <workItem from="1573760713288" duration="3100000" />
       <workItem from="1573764331730" duration="599000" />
       <workItem from="1573814844697" duration="594000" />
-      <workItem from="1573835790889" duration="9801000" />
+      <workItem from="1573835790889" duration="13460000" />
     </task>
     <servers />
   </component>
