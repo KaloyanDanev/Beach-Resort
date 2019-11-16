@@ -46,7 +46,7 @@ export default class RoomProvider extends Component {
     };
 
     componentDidMount() {
-      this.getData()
+      this.getData();
     }
 
     formatData(items) {

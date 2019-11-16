@@ -4,9 +4,11 @@ import Hero from "../components/Hero";
 import Banner from "../components/Banner";
 import Services from "../components/Services";
 import FeaturedRooms from "../components/FeaturedRooms";
+
 const home = () => {
     return (
         <>
+            <title>Beach Resort</title>
             <Hero>
                 <Banner
                     title="luxurious rooms"
